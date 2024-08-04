@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: black;
+    color: white;
+    font-family: 'Consolas', monospace;
+}
+
+#gameCanvas {
+    border: 1px solid white;
+}
+
+h1, #score {
+    margin: 10px;
+}
